@@ -1,0 +1,14 @@
+/* Footer container */
+.footer {
+  position: relative;
+  width: 100%;
+  background-color: #f1f1f1; /* Background color of the footer */
+  padding: 20px 0; /* Some padding around the content */
+}
+
+/* Horizontal black line */
+.footer-line {
+  border-top: 2px solid black; /* Creates a 2px solid black line at the top */
+  width: 100%; /* Ensures the line spans the full width of the footer */
+  margin: 0 auto; /* Centers the line within the footer */
+}
