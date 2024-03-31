@@ -4,7 +4,7 @@ function Error() {
   return (
     
     <div className="page-content">
-      <h1>404 error</h1></div>
+      <h1>404 error today</h1></div>
   )
 }
 
